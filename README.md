@@ -4,7 +4,7 @@
 </em></p>
 
 [![Twitter: ozobear](https://img.shields.io/twitter/follow/ozobear?style=social)](https://twitter.com/ozobear)
-[![Linkedin: andreivg](https://img.shields.io/badge/-oscar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andreivg/)](https://www.linkedin.com/in/andreivg/)
+[![Linkedin: andreivg](https://img.shields.io/badge/-Oscar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andreivg/)](https://www.linkedin.com/in/andreivg/)
 [![GitHub ozobear](https://img.shields.io/github/followers/ozobear?label=follow&style=social)](https://github.com/ozobear)
 
 
