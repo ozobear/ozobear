@@ -11,8 +11,7 @@
 ### <img src="https://media.giphy.com/media/ynaCWB9soHk1a/giphy.gif" width="50"> Know my code...  
 
 ```javascript
-const thai = {
-  pronouns: "he",
+const ozobear = {
   code: [Javascript, Typescript, HTML, CSS, Python],
   tools: [React, Next, Node, Django, Firebase, Figma],
   techCommunities: {
