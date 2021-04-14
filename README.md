@@ -1,4 +1,4 @@
-<h2> Hi, I'm Oscar AKA ozobear <img src="https://media.giphy.com/media/ynaCWB9soHk1a/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Oscar AKA ozobear</h2>
 <img align='right' src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="230">
 <p><em>Fullstack Web Developer at <a href="http://www.guaje.mx">Guaje</a></br>Frontend Developer mostly Freelance 
 </em></p>
@@ -8,7 +8,7 @@
 [![GitHub ozobear](https://img.shields.io/github/followers/ozobear?label=follow&style=social)](https://github.com/ozobear)
 
 
-### Know my code...  
+### <img src="https://media.giphy.com/media/ynaCWB9soHk1a/giphy.gif" width="50"> Know my code...  
 
 ```javascript
 const thai = {
